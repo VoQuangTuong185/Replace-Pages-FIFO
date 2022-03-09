@@ -1,0 +1,11 @@
+void KhoiDong();
+void VeHinhChuNhat(int,int,int,int,int,int);
+void Nut_Bam();
+void InPut();
+void Char_to_Str(int x,int y,char a);
+void OutPut();
+void Nut_So_Luong_Trang(bool test);
+void Nut_Khung_Trang(bool test);
+void Nut_Them_Trang(bool test);
+bool Check_Mouse(int x1,int y1,int x2,int y2,int x,int y);
+void Ve_Nut(int x1,int y1, int x2, int y2,int color,int bgcolor, int thickness);
